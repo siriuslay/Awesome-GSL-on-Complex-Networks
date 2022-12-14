@@ -11,6 +11,7 @@ Heterogeneous graph
 Hypergraph
 ----
 * [IJCAI 2022] **Hypergraph Structure Learning for Hypergraph Neural Networks** [[Paper](https://www.ijcai.org/Proceedings/2022/267)]
+* [arXiv 2022] **Deep Hypergraph Structure Learning** [[Paper](https://arxiv.org/pdf/2208.12547.pdf)]
 
 Dynamic graph
 ----
