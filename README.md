@@ -16,3 +16,8 @@ Hypergraph
 Dynamic graph
 ----
 * [AAAI 2023] **Directed Acyclic Graph Structure Learning from Dynamic Graphs** [[Paper](http://www.shichuan.org/doc/142.pdf) | [Code](https://github.com/BUPT-GAMMA/GraphNOTEARS)]
+
+
+Spatio-Temporal Data
+----
+* [AAAI 2020] **Spatio-Temporal Graph Structure Learning for Traffic Forecasting** [[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/5470) | [Code](https://paperswithcode.com/paper/spatio-temporal-graph-structure-learning-for)]
