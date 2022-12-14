@@ -17,10 +17,12 @@ Hypergraph
 Dynamic Graph
 ----
 * [AAAI 2023] **Directed Acyclic Graph Structure Learning from Dynamic Graphs** [[Paper](http://www.shichuan.org/doc/142.pdf) | [Code](https://github.com/BUPT-GAMMA/GraphNOTEARS)]
+* [AISTATS 2020] **DYNOTEARS: Structure Learning from Time-Series Data** [[Paper](http://proceedings.mlr.press/v108/pamfil20a.html)]
+* [NeurIPS 2018] **DAGs with NO TEARS: Continuous Optimization for Structure Learning** [[Paper](https://proceedings.neurips.cc/paper/2018/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html) | [Code](https://github.com/xunzheng/notears)]
 
 
 Spatio-Temporal Data
 ----
-* [IJCNN 2022] **Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting** [[Paper](https://ieeexplore.ieee.org/document/9892191)
+* [IJCNN 2022] **Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting** [[Paper](https://ieeexplore.ieee.org/document/9892191)]
 * [ICLR 2021] **Discrete Graph Structure Learning for Forecasting Multiple Time Series** [[Paper](https://openreview.net/pdf?id=WEHSlH5mOk) | [Code](https://github.com/chaoshangcs/GTS)]
 * [AAAI 2020] **Spatio-Temporal Graph Structure Learning for Traffic Forecasting** [[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/5470) | [Code](https://paperswithcode.com/paper/spatio-temporal-graph-structure-learning-for)]
