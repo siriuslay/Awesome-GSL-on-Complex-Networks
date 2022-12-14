@@ -12,6 +12,7 @@ Hypergraph
 ----
 * [IJCAI 2022] **Hypergraph Structure Learning for Hypergraph Neural Networks** [[Paper](https://www.ijcai.org/Proceedings/2022/267)]
 * [arXiv 2022] **Deep Hypergraph Structure Learning** [[Paper](https://arxiv.org/pdf/2208.12547.pdf)]
+* [IJCAI 2018] **Dynamic Hypergraph Structure Learning** [[Paper](https://www.ijcai.org/proceedings/2018/439)]
 
 Dynamic Graph
 ----
@@ -20,5 +21,6 @@ Dynamic Graph
 
 Spatio-Temporal Data
 ----
-* [ICLR 2021] **Discrete Graph Structure Learning for Forecasting Multiple Time Series.** [[Paper](https://openreview.net/pdf?id=WEHSlH5mOk) | [Code](https://github.com/chaoshangcs/GTS)]
+* [IJCNN 2022] **Spatio-Temporal Latent Graph Structure Learning for Traffic Forecasting** [[Paper](https://ieeexplore.ieee.org/document/9892191)
+* [ICLR 2021] **Discrete Graph Structure Learning for Forecasting Multiple Time Series** [[Paper](https://openreview.net/pdf?id=WEHSlH5mOk) | [Code](https://github.com/chaoshangcs/GTS)]
 * [AAAI 2020] **Spatio-Temporal Graph Structure Learning for Traffic Forecasting** [[Paper](https://ojs.aaai.org//index.php/AAAI/article/view/5470) | [Code](https://paperswithcode.com/paper/spatio-temporal-graph-structure-learning-for)]
