@@ -6,6 +6,7 @@
 Heterogeneous Graph
 ----
 * [AAAI 2021] **Heterogeneous Graph Structure Learning for Graph Neural Networks** [[Paper](http://shichuan.org/doc/100.pdf) | [Code](https://github.com/Andy-Border/HGSL)]
+* [AAAI 2020] **An Attention-based GNN for Heterogeneous Structural Learning** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5833) | [Code](https://github.com/didi/hetsann)]
 
 
 Hypergraph
